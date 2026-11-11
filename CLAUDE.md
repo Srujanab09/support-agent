@@ -14,3 +14,8 @@ A support ticket agent built for learning and a portfolio.
 - Use only synthetic data. No real customer data or former employer code.
 - Never commit secrets. Keep keys in .env, which Git ignores.
 - Write tests for new code and keep changes small.
+
+## Content rules
+- Generic server fleet domain only. Never name a vendor, product, controller or vendor error code.
+- Use invented data only: fake device IDs, and IP addresses from 192.0.2.0/24.
+- Write every doc and ticket in original words. Never paste text from vendor docs or forums.
